@@ -1,0 +1,279 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.section-1{
+    background: url(./img/Vector\ Smart\ Object\ \(Double\ Click\ to\ Edit\)\ \(2\).png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav{
+    display: flex;
+    justify-content: end;
+    gap: 50px;
+    margin-right: 113px;
+    padding-top: 30px;
+   
+}
+nav a{
+    font-size: 30px;
+    text-decoration: none;
+    font-family: sans-serif;
+    color: white;
+    padding-top:  20px;
+ 
+}
+nav a:hover{
+    color: #ffc200;
+}
+nav img{
+    margin-left: 120px;
+}
+.child-1{
+    justify-content: end;
+}
+.child-1 h1{
+ margin-left: 935px;
+ margin-top: 139px;
+    color: #ffc200;
+        font-family: "Grand Hotel", cursive;
+        font-weight: 400;
+        font-style: normal;
+      font-size: 139px;
+      
+}
+.child-1 p{
+    margin-left:935px ;
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+.child-1 button{
+    width: 245px;
+  height: 50px;
+border-radius: 4px;
+background-color: #ffc200;
+margin-left:935px ;
+margin-top: 30px;
+border: none;
+border-radius: 10px;
+font-size: 30px;
+font-weight: bold;
+color: #333333;
+}
+.child-1 button:hover{
+    width: 245px;
+  height: 50px;
+border-radius: 4px;
+background-color: #303030;
+margin-left:935px ;
+margin-top: 30px;
+border: none;
+border-radius: 10px;
+font-size: 30px;
+font-weight: bold;
+color: #ffc200;
+border: 3px solid #ffc200;
+}
+.section-2{
+    height: 100vh;
+    
+}
+.qw img{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.section-2 h1{
+    font-family: "Grand Hotel", cursive;
+    font-size: 140px;
+     color: #333333;
+     text-align: center;
+}
+.section-2 p{
+    font-family: "Grand Hotel", cursive;
+    font-size: 30px;
+     color: #333333;
+     text-align: center;
+
+}
+
+.id img{
+    margin-left: 30px;
+}
+.id{
+   display: flex;
+   justify-content: center;
+   gap:230px;
+   margin-top: 40px;
+}
+
+.id h1{
+    font-family: "Grand Hotel", cursive;
+    font-size: 50px;
+       margin-top: 20px;
+
+}
+.id p{
+    margin-top: 30px;
+    margin-left: 40px;
+    font-family:sans-serif;
+    font-size: 22px;
+} 
+.section-3{
+    height: 100vh;
+    position: relative;
+}
+.section-3 img{
+    position: absolute;
+           height: 900px;
+           width: 1903px;
+           margin-top: 30px;
+}
+
+.child-5{
+    position: absolute;
+}
+.child-5 img{
+    position: absolute;
+ height: 500px;
+ width:500px;
+    top: 300px;
+    left: 130px;
+}
+.child-6{
+    margin-top: 399px;
+margin-left: 60%;
+    position: absolute;
+}
+.child-6 h1{
+    font-family: "Grand Hotel", cursive;
+    font-size: 80px;
+       margin-top: 20px; 
+       color:  #ffc200;
+}
+ .child-6 p{
+  
+    font-family:sans-serif;
+    font-size: 22px;
+    color: white;
+ }
+ .child-6 button{
+    width: 245px;
+  height: 50px;
+border-radius: 4px;
+background-color: #ffc200;
+
+border: none;
+border-radius: 10px;
+font-size: 30px;
+font-weight: bold;
+color: #333333;
+}
+.child-6 button:hover{
+    width: 245px;
+  height: 50px;
+border-radius: 4px;
+background-color: #303030;
+border: 3px solid #ffc200;
+
+border-radius: 10px;
+font-size: 30px;
+font-weight: bold;
+color: #ffc200;
+}
+.section-4{
+margin-top: -30px;
+    height: 100vh;
+    background-color:  #303030;
+
+}
+.section-4 h1{
+
+    font-family: "Grand Hotel", cursive;
+    font-size: 80px;
+    
+       color:  #ffc200;
+       text-align: center;    
+}
+.section-4 p{
+
+
+     text-align: center;
+     color: white;
+     font-family: sans-serif;
+}
+.circle{
+   
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 8px solid white;
+    background-color: #303030;
+}
+.rt-1{
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+.section-5{
+    height: 100vh;
+    position: absolute;
+}
+.section-5 img{
+    position: absolute;
+    height: 900px;
+    width: 1903px;
+         z-index: -1;
+    margin-top: -65px;
+}
+.child-9 img {
+ height: 500px;
+ width: 500px;
+ margin-left: 1000px;
+ margin-top: 50px;
+}
+.child-7{
+    margin-top: 60px;
+margin-left: 350px;
+    position: absolute;
+}
+.child-7 h1{
+    font-family: "Grand Hotel", cursive;
+    font-size: 80px;
+       margin-top: 20px; 
+       color:  #ffc200;
+}
+ .child-7 p{
+  
+    font-family:sans-serif;
+    font-size: 22px;
+    color: white;
+ }
+ .child-7 button{
+    width: 245px;
+  height: 50px;
+border-radius: 4px;
+background-color: #ffc200;
+
+border: none;
+border-radius: 10px;
+font-size: 30px;
+font-weight: bold;
+color: #333333;
+}
+.child-7 button:hover{
+    width: 245px;
+  height: 50px;
+border-radius: 4px;
+background-color: #303030;
+border: 3px solid #ffc200;
+
+border-radius: 10px;
+font-size: 30px;
+font-weight: bold;
+color: #ffc200;
+}
+
